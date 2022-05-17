@@ -1,0 +1,6 @@
+module Pods_ExazeAssessment {
+  umbrella header "Pods-ExazeAssessment-umbrella.h"
+
+  export *
+  module * { export * }
+}
